@@ -1,0 +1,30 @@
+{
+  "name": "backend-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsx test.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidney-amsalem/backend-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidney-amsalem/backend-practice/issues"
+  },
+  "homepage": "https://github.com/sidney-amsalem/backend-practice#readme",
+  "dependencies": {
+    "axios": "^1.13.5",
+    "dotenv": "^17.3.1",
+    "papaparse": "^5.5.3"
+  },
+  "devDependencies": {
+    "@types/papaparse": "^5.5.2",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
